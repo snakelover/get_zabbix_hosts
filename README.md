@@ -1,2 +1,2 @@
 # get_zabbix_hosts
-Script to get lists of Zabbix hosts based on the specified options
+Script to get the list of Zabbix hosts based on the specified options
